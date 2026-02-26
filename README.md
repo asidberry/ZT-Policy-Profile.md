@@ -1,2 +1,2 @@
 # ZT-Policy-Profile.md
-Zero Trust Policy 
+Lab 03: Zero Trust Policy 
