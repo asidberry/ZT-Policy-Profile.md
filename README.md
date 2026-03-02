@@ -1,6 +1,13 @@
 # ZT-Policy-Profile.md
 Lab 03: Zero Trust Policy 
 
+Arielle Sidberry
+
+Date: February 27, 2026
+
+Objective: Define three Zero Trust Architecture components, and design a simplified Zero Trust Architecture policy profile for accessing this sensitive information.
+
+
 1. ZTA Component Definitions
 
 Policy Engine (PE): The Policy Engine is often referred to as the judge because it serves as the ultimate decision-maker. It evaluates security rules and determines whether access should be granted or denied.
@@ -26,3 +33,13 @@ This principle is important for the water treatment facility’s data because ma
 As mentioned in the reading, one effective way to improve security and protect data is by continuously monitoring networks. Network monitoring helps organizations detect unusual activity early and defend against cyber threats and attacks.
 
 3. Simplified Policy Table
+
+Organization: Golden State Water Treatment Facility
+
+Protected Resource: HR Database (Employee PII, background checks, certification status)
+
+Security Goal: Protect Confidentiality and prevent insider threats
+
+<img width="1386" height="572" alt="image" src="https://github.com/user-attachments/assets/b2391bc7-285e-4475-b2bd-2135daea3a68" />
+
+# Git Repository Metadata
