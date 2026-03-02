@@ -11,3 +11,18 @@ Policy Enforcement Point (PEP): The Policy Enforcement Point is like the securit
 
 
 2. Core Principle Application 
+
+The 3 Core Principles of the Zero Trust Policy
+1. Verify Explicitly
+2. Use Least Privilege
+3. Assume Breach
+
+Protecting the Water Treatment Facility's data.
+
+-The core principle I am choosing is Verify Explicitly. This principle means always authenticating and authorizing access based on all available data points, including user identity, location, device health, and data classification.
+
+This principle is important for the water treatment facility’s data because many potential threats may come through proxy services or suspicious network activity. To keep sensitive information secure and out of the wrong hands, Verify Explicitly ensures that details such as IP address, location, and device status are validated before access is granted.
+
+As mentioned in the reading, one effective way to improve security and protect data is by continuously monitoring networks. Network monitoring helps organizations detect unusual activity early and defend against cyber threats and attacks.
+
+3. Simplified Policy Table
