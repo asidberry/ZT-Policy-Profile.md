@@ -39,10 +39,13 @@ Protected Resource: HR Database (Employee PII, background checks, certification 
 
 Security Goal: Protect Confidentiality and prevent insider threats
 
-<img width="1386" height="572" alt="image" src="https://github.com/user-attachments/assets/b2391bc7-285e-4475-b2bd-2135daea3a68" />
+<img width="1276" height="352" alt="image" src="https://github.com/user-attachments/assets/9006b61c-9439-4793-89e1-b1ad023741b0" />
+
+This Zero Trust Policy verifies user identity, device posture, and network context before granting access to the HR database. Access is only allowed when all sercurity conditions are met, protecting sensitive employee PII and maintaining confidentiality.
 
 Proof of work
 
 <img width="753" height="457" alt="image" src="https://github.com/user-attachments/assets/88bbbb07-c5de-4b77-8af4-210d56de0605" />
+
 
 # Git Repository Metadata
