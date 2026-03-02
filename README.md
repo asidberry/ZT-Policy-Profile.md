@@ -1,5 +1,4 @@
-# ZT-Policy-Profile.md
-Lab 03.md: Zero Trust Policy 
+# Lab 03.md: Zero Trust Policy 
 
 Arielle Sidberry
 
