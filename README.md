@@ -51,7 +51,7 @@ Project: Lab 3 Zero Trust Policy
 
 Filename: ZT-Policy-Profile.md
 
-Commit Message:
+Commit Message: https://github.com/asidberry/ZT-Policy-Profile.md.git
 
 <img width="753" height="457" alt="image" src="https://github.com/user-attachments/assets/88bbbb07-c5de-4b77-8af4-210d56de0605" />
 
