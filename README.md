@@ -1,7 +1,5 @@
 # Lab-03.md: Zero Trust Policy 
 
-Arielle Sidberry
-
 Date: February 27, 2026
 
 Objective: Define three Zero Trust Architecture components, and design a simplified Zero Trust Architecture policy profile for accessing this sensitive information.
