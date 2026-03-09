@@ -46,8 +46,7 @@ Project: Lab 3 Zero Trust Policy
 
 Filename: ZT-Policy-Profile.md
 
-Commit Message: Lab 03 focuses on defining ZTA components, reviewing the core principles of Zero Trust Policy, explaining the principle I chose Verify Explicitly for the scenario, and creating a simplified policy table to protect the HR database.
-https://github.com/asidberry/ZT-Policy-Profile.md.git
+Commit Message: Lab 03 focuses on defining ZTA components, reviewing the core principles of Zero Trust Policy, explaining the principle I chose Verify Explicitly for the scenario, and creating a simplified policy table to protect the HR database. https://github.com/asidberry/ZT-Policy-Profile.md.git
 
 <img width="753" height="457" alt="image" src="https://github.com/user-attachments/assets/88bbbb07-c5de-4b77-8af4-210d56de0605" />
 
