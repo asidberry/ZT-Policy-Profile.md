@@ -43,9 +43,18 @@ Security Goal: Protect Confidentiality and prevent insider threats
 
 This Zero Trust Policy verifies user identity, device posture, and network context before granting access to the HR database. Access is only allowed when all sercurity conditions are met, protecting sensitive employee PII and maintaining confidentiality.
 
-Proof of work
+Submission Details
+
+# Git Repository Metadata
+
+Project: Lab 3 Zero Trust Policy
+
+Filename: ZT-Policy-Profile.md
+
+Commit Message:
 
 <img width="753" height="457" alt="image" src="https://github.com/user-attachments/assets/88bbbb07-c5de-4b77-8af4-210d56de0605" />
 
+Due Date: March 2nd, 2026
 
-# Git Repository Metadata
+
