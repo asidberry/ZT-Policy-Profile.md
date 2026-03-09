@@ -43,7 +43,7 @@ Security Goal: Protect Confidentiality and prevent insider threats
 
 This Zero Trust Policy verifies user identity, device posture, and network context before granting access to the HR database. Access is only allowed when all sercurity conditions are met, protecting sensitive employee PII and maintaining confidentiality.
 
-Submission Details
+4. Submission Details
 
 # Git Repository Metadata
 
